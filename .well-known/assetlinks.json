@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.prism.shareyourlight",
+    "sha256_cert_fingerprints": [
+      "97:34:0E:10:6C:E2:A8:E4:CC:A9:8A:8F:AD:41:E5:38:82:EA:C5:6E:DC:80:40:A6:16:F3:AF:F1:61:33:89:86"
+    ]
+  }
+}]
